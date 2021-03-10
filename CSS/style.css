@@ -1,0 +1,153 @@
+h1, h2, h3 , h4, h5, h6 {
+    font-family: 'Kameron', sans-serif;
+  }
+
+h2 {
+    font-weight: 800;
+    color:black;
+    margin: 50px;
+}
+h1 {
+    font-weight: 800;
+    color: black;
+    margin: 0px;
+}
+p {
+    font-size: 18px;
+    font-family: 'Kameron', sans-serif;
+}
+.customNav {
+    position: fixed;
+    width: 100%;
+    background: #fff8f1 !important;
+    padding: 25px 100px !important;
+    background-size: cover;
+    z-index: 10;
+    
+    
+  }
+
+  .customNav a {
+    color: black !important;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.25em;
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding: 15px;
+    width: 100%;
+  }
+  .nav-item {
+    margin: 0px 15px;
+  }
+  
+  .jumbotron {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: transparent !important;
+    height: 600px;
+    height: calc(100vh);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0px !important;
+    padding-top: 100px !important;
+    padding-bottom: 0px !important;
+    flex-direction: column;
+    position: 50px -50px !important;
+  }
+  .img-fluid {
+      max-width: 100%;
+      height: auto;
+  }
+
+  /* Cards */
+.content {
+    padding: 0px 300px;
+
+  }
+  .sectionHeading {
+    text-align: center;
+    font-size: 36px;
+   
+  }
+  .showsNear  {
+    padding: 0px 30px 30px 30px;
+  }
+  .cardContainer {
+    text-align: center;
+  }
+  
+  /* Content */
+  
+  .imageContainer img {
+    width: 100%;
+  }
+  .imageContainer {
+    padding: 50px;
+  }
+  .valueProp {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .card {
+    border: none !important;
+  }
+  .bodyParagraphTextLeft {
+    text-align: left;
+    padding: 0px 200px;
+    margin: 100px 120px 0px 120px;
+}
+  .card-text-tools {
+      text-align: left; 
+      padding-left: 80px;
+  }
+  .UserJourney{
+      position:center;
+}
+
+
+.green {
+    background-color: #fff8f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Footer */
+.emailContain {
+    background-color:#fff8f1 ;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+  }
+  
+  /* Footer form */
+  form {
+    width: 500px;
+    margin: 35px auto;
+    padding: 45px;
+    border: 1px solid #F2F2F2;
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1);
+    background-color: white;
+  }
+
+  .pad {
+      padding: 0px 220px 0px 0px;
+  }
+  .pad2 {
+    padding: 0px 0px 0px 200px;
+}
